@@ -386,6 +386,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#00f5ff"
             }
           },
           "_tags": [
