@@ -69,7 +69,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -148,7 +148,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#b8312f!important"
             }
           },
           "_tags": [
@@ -285,6 +285,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header2-4",
           "_params": {
             "imageSize": 50,
@@ -330,15 +338,7 @@
           },
           "title": "Twitch &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;",
           "text": "Вот вам мой твич",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.twitch.tv/mifsgames\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Сам Twitch</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center"
-            },
-            ".mbr-section-text": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.twitch.tv/mifsgames\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Сам Twitch</a>"
         },
         {
           "_inherit": "msg-box8",
