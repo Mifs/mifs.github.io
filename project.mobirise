@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -389,57 +389,46 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Свяжись с нами если хочеш заказть товар</a>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "72px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-8",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
           },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "cash",
-              "family": "MobiriseIcons",
-              "link": "http://www.donationalerts.ru/r/mifsgames",
-              "size": "200",
-              "color": "#7ac673",
-              "active": true,
-              "newWindow": true
-            }
-          },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Поддержи наш сайт</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><b><a href=\"http://www.donationalerts.ru/r/mifsgames\" target=\"_blank\">Поддержка</a></b>",
-          "text2": "<br><br>",
-          "text3": "",
-          "_styles": {
-            "SPAN": {
-              "font-size": "25px",
-              "color": "#fac51c",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#b8312f",
-              "font-size": "25px"
-            },
-            "B": {
-              "font-size": "25px"
-            }
-          }
+          "title": "<a href=\"http://www.donationalerts.ru/r/mifsgames\" target=\"_blank\" class=\"text-white\">Поддержи нас</a>&nbsp;",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.donationalerts.ru/r/mifsgames\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Поддержка</a> "
         }
       ]
     }

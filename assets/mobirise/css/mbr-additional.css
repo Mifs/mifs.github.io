@@ -500,15 +500,14 @@ h6,
 #form2-7 .btn {
   font-size: 11px;
 }
-#contacts1-8 SPAN {
-  font-size: 25px;
-  color: #fac51c;
-  text-align: center;
+#msg-box3-a .mbr-section-title,
+#msg-box3-a p {
+  color: #000;
 }
-#contacts1-8 P {
-  color: #b8312f;
-  font-size: 25px;
+#msg-box3-a .mbr-section-title {
+  color: #ffffff;
+  font-size: 60px;
 }
-#contacts1-8 B {
-  font-size: 25px;
+#msg-box3-a .btn {
+  font-size: 72px;
 }
