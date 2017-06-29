@@ -377,7 +377,7 @@
           "form": {
             "action": "mifsgames@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Скоро ответим"
             },
             "fields": {
               "email": {
