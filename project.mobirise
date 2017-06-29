@@ -278,7 +278,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вы видите только демо версию</a>",
           "text": "Для связи с нами пишите на почту mifsgames@gmail.com",
-          "title": "Сайт в находится в доработке"
+          "title": "Сайт находится в доработке"
         },
         {
           "_tags": [
@@ -416,7 +416,7 @@
             "showButton": false
           },
           "title": "mifsgames@gmail.com",
-          "text": "<pre><b>Для связи с нами пишите на почту покаханую сверху</b></pre>",
+          "text": "<pre><b>Для связи с нами пишите на почту показанную сверху</b></pre>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
