@@ -99,7 +99,7 @@
             }
           },
           "title": "DesignG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 3rem; line-height: 1.1;\">by MifsGames</span><br>",
-          "text": "<b>На этом сайте вы сможете посмотреть мои работы</b><br><b>(буст акк cs:go в самом низу)<br></b><b><br></b>",
+          "text": "<b>На этом сайте вы сможете посмотреть мои работы</b><br><b>(Так же мы наняли человека для буста акк cs:go )<br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
         {
@@ -287,7 +287,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "text-align": "center"
