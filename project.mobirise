@@ -120,10 +120,10 @@
               "color": "#f7da64"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -158,7 +158,7 @@
           "_anchor": "menu-1",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor",
