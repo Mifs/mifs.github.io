@@ -52,7 +52,7 @@
           "_anchor": "msg-box5-0",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
@@ -74,11 +74,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x829.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mifsg-2-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -94,7 +95,6 @@
               "link": "",
               "size": "370",
               "newWindow": false,
-              "active": true,
               "color": "#f7da64"
             }
           },
