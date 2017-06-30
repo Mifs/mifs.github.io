@@ -441,11 +441,11 @@ h6,
   color: #f7da64;
 }
 #menu-1 .link {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.921rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
