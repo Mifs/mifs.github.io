@@ -506,7 +506,7 @@
               "text": "Это наш бустер по Cs:Go .",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/1448726076-preview-4cwidom-jfm-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -524,7 +524,7 @@
               "text": "Скоро",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/9bc077fe1b150b622d07bf4973a24492-160x90.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/9bc077fe1b150b622d07bf4973a24492-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
