@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -186,7 +186,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DesigG все нужное там -&gt;</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Ссылки</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCLjMDkDdXQNEoV7iclu0xJg\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.twitch.tv/mifsgames\" target=\"_blank\"><span class=\"socicon socicon-twitch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(147, 101, 184);\"></span>Twitch</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Связь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-c\">Связь с нами</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Буст</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-m\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Наши партнеры</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Ссылки</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCLjMDkDdXQNEoV7iclu0xJg\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>YouTube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.twitch.tv/mifsgames\" target=\"_blank\"><span class=\"socicon socicon-twitch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(147, 101, 184);\"></span>Twitch</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(225, 216, 175);\"></span>Связь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-c\">Связь с нами</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(44, 130, 201);\"></span>Буст</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-m\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>Наши партнеры</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-o\" aria-expanded=\"false\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>Гарантии</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -553,6 +553,67 @@
           },
           "title": "Наши партнеры",
           "subtitle": "Люди котрые работают на нас"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Наши гарнтии",
+                "showText": true,
+                "text": "1-Опыт в работе более 3лет",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "2-У нас есть :",
+                "showText": true,
+                "text": "ютуб,твич,вк,скайп.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "3-У нас потвержден сайт",
+                "showText": true,
+                "text": "У нас есть отзывы &nbsp;и вы можете оставить свой<br>(если вам этого не достаточно &nbsp;и ваш что то не устраивает спрашивайте у нас)",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-o",
+          "articleLayout": false
         }
       ]
     }
