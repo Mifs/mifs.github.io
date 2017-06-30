@@ -503,7 +503,7 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "Это наш бустер.У нас есть гарантии.",
+              "text": "Это наш бустер по Cs:Go .",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
@@ -562,6 +562,9 @@
             "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -571,10 +574,7 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "Наши партнеры",
           "subtitle": "Люди котрые работают на нас"
