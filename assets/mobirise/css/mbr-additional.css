@@ -484,12 +484,6 @@ h6,
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-#header2-4 .mbr-section-title {
-  text-align: left;
-}
-#header2-4 .mbr-section-text {
-  text-align: center;
-}
 #msg-box3-a .mbr-section-title,
 #msg-box3-a p {
   color: #000;
