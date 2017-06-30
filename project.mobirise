@@ -472,31 +472,6 @@
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
         {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-f",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "UCLjMDkDdXQNEoV7iclu0xJg",
-            "facebook": "",
-            "twitter": "",
-            "google": "",
-            "postToLoad": "6",
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#f3c649",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
-        },
-        {
           "_tags": [
             "Theme"
           ],
