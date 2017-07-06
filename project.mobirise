@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -52,8 +52,8 @@
           "_anchor": "msg-box5-0",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-2000x1066.jpg",
@@ -74,7 +74,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mifsg-2-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x1125.png",
               "link": "",
               "alt": "",
               "title": "",
