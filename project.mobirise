@@ -235,6 +235,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/newmifsg1-2000x1125-800x450.png",
                 "image": "@PROJECT_PATH@/assets/images/newmifsg1-2000x1125.png",
                 "caption": "Лавовый текст",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1607-800x642.png",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1607.png",
+                "caption": "Лракон вектор",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1934-800x773.png",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1934.png",
+                "caption": "Дом вектор",
                 "active": true
               }
             ],
