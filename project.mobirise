@@ -244,7 +244,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1607-800x642.png",
                 "image": "@PROJECT_PATH@/assets/images/-2000x1607.png",
-                "caption": "Лракон вектор",
+                "caption": "Дракон вектор",
                 "active": false
               },
               {
@@ -254,7 +254,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-2000x2000.jpg",
-                "caption": "Дом вектор",
+                "caption": "Лого кофе",
                 "active": true
               }
             ],
