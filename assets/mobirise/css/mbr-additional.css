@@ -441,11 +441,11 @@ h6,
   color: #f7da64;
 }
 #menu-1 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
@@ -524,11 +524,11 @@ h6,
   color: #f7da64;
 }
 #menu-u .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-u .dropdown-item,
 #menu-u .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-u .link:hover,
 #menu-u .dropdown-item:hover,
