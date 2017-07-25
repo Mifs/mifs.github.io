@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DeSIGNg",
-    "currentPage": "Рецепы",
+    "currentPage": "Recepts",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -606,10 +606,10 @@
         }
       ]
     },
-    "Рецепы": {
+    "Recepts": {
       "settings": {
-        "title": "Рецепт",
-        "meta_descr": "Рецепт"
+        "title": "Recepts",
+        "meta_descr": "Recepts"
       },
       "components": [
         {
