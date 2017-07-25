@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DeSIGNg",
-    "currentPage": "index.html",
+    "currentPage": "Рецепы",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -606,7 +606,7 @@
         }
       ]
     },
-    "page1.html": {
+    "Рецепы": {
       "settings": {
         "title": "Website Generator Title",
         "meta_descr": "Website Generator Description"
