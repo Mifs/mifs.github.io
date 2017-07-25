@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DeSIGNg",
-    "currentPage": "Рецепы",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,8 +29,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MifsGDesugn",
-        "meta_descr": "",
+        "title": "MifsGDesign",
+        "meta_descr": "MifsGDesign",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -609,7 +609,7 @@
     "Рецепы": {
       "settings": {
         "title": "Рецепт",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Рецепт"
       },
       "components": [
         {
