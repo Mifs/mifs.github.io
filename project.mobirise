@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DeSIGNg",
-    "currentPage": "index.html",
+    "currentPage": "Рецепы",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -710,7 +710,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/x2kdiqgiem0-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -719,21 +719,21 @@
                 "showTitle": true,
                 "title": "Рецепт вкусных блинчиков",
                 "showText": true,
-                "text": "1.Молоко и яйца достаньте из холодильника заранее, чтобы они приобрели комнатную температуру.<br>2.Вбейте яйца в миску, смешайте с сахаром и солью. ...<br>3.Добавьте молоко, хорошо перемешайте.<br>4.Установите на миску сито и всыпайте в него муку. ...<br>5.Добавьте растительное масло и перемешайте",
+                "text": "1.Молоко и яйца достаньте из холодильника заранее, чтобы они приобрели комнатную температуру.<br>2.Вбейте яйца в миску, смешайте с сахаром и солью. ...<br>3.Добавьте молоко, хорошо перемешайте.<br>4.Установите на миску сито и всыпайте в него муку. ...<br>5.Добавьте растительное масло и перемешать.<br><b>Вкусно покушать!)</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/79af8df28b7a3435e007eba256dccdeb-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "скоро",
+                "title": "Клубничный смузи",
                 "showText": true,
-                "text": "скоро",
+                "text": "Клубника 4-5шт(по желанию можно больше)<br>Йогурт 1.5%-нойжирн. 200 г<br>Сахар (по желанию) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Готовка<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;В чащу блендера сложить клубнику.<br>Добавить йогурт и сахар.Хорошо взбить. Немного охладить.<br>Разлить по бокалам, украсить ягодами малины и сразу подавать к столу.<br><b>Хорошо попить!)</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
