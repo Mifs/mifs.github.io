@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "DeSIGNg",
-    "currentPage": "index.html",
+    "currentPage": "Recepts",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#b8312f",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#f28281",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -703,6 +703,15 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -724,7 +733,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/79af8df28b7a3435e007eba256dccdeb-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "",
@@ -738,16 +747,16 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1515.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "скоро",
+                "title": "Чизкейк",
                 "showText": true,
-                "text": "скоро",
+                "text": "1.песочное печенье — 200 г;(1 слой)<br>2.сливочное масло — 100 г;<br>3.сыр сливочный или творог — 750 г;<br>4.сахар — 200 г;<br>5.сахар ванильный — 10 г;<br>6.яйца — 3 шт.;<br>7.ливки жирностью 35% — 180 мл<br>8.лимонная цедра — чайная ложка.<br>9.джем(3слой)<br>(с2-8 ложим в миску и перемешиваем ,получившимся выкладываем 2слой)<br>10.Ставим в холодильник для застывания)<br>Приятного апетита!)",
                 "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
@@ -757,13 +766,32 @@
             "showBullets": true
           },
           "_anchor": "slider-v",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
+          "articleLayout": false
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-w",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": true,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
       ]
     }
