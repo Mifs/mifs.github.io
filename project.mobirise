@@ -552,7 +552,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "2",
+            "timeout": "4",
             "slides": [
               {
                 "active": false,
