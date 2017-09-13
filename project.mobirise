@@ -262,7 +262,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-2000x2000.jpg",
                 "caption": "Лого кофе",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -308,6 +308,17 @@
                 "caption": "кофе&nbsp;",
                 "active": false,
                 "alt": "Ава"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1000x1000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-1000x1000.jpg",
+                "caption": "Обложка",
+                "active": true,
+                "alt": ""
               }
             ]
           },
